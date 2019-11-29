@@ -1,1 +1,15 @@
-This repository contains the source codes used in the manuscript "Revisiting Probability Distribution Assumptions for Information Theoretic Feature Selection".
+This repository contains the source codes used in the paper: "Revisiting Probability Distribution Assumptions for Information Theoretic Feature Selection".
+
+-----------
+References:
+-----------
+Sun, Y., Wang, W., Kirley, M., Li, X., & Chan, J. Revisiting Probability Distribution Assumptions for Information Theoretic Feature Selection. To be presented at AAAI 2020 in New York. 
+
+--------
+License:
+--------
+This program is to be used under the terms of the GNU General Public License 
+(http://www.gnu.org/copyleft/gpl.html).
+Author: Yuan Sun
+e-mail: yuan.sun@rmit.edu.au OR suiyuanpku@gmail.com
+Copyright notice: (c) 2019 Yuan Sun
